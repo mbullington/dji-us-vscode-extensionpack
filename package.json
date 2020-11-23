@@ -1,7 +1,7 @@
 {
   "name": "dji-us-vscode-extensionpack",
-  "version": "0.2.0",
-  "publisher": "mbullington",
+  "version": "1.0.0",
+  "publisher": "dji-dev",
   "displayName": "DJI US Web Team - VS Code Extension Pack",
   "description": "A collection of my VS Code extensions for JS, TS, React, Java, Python, Kotlin, etc.",
   "license": "SEE LICENSE IN LICENSE",
